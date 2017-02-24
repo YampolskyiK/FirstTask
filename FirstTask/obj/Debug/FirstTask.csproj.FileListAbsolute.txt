@@ -1,0 +1,17 @@
+c:\users\kyampolskyi\documents\visual studio 2015\Projects\FirstTask\FirstTask\bin\Debug\FirstTask.exe.config
+C:\Users\kyampolskyi\documents\visual studio 2015\Projects\FirstTask\FirstTask\bin\Debug\FirstTask.exe
+C:\Users\kyampolskyi\documents\visual studio 2015\Projects\FirstTask\FirstTask\bin\Debug\FirstTask.pdb
+C:\Users\kyampolskyi\documents\visual studio 2015\Projects\FirstTask\FirstTask\bin\Debug\Crawler.dll
+C:\Users\kyampolskyi\documents\visual studio 2015\Projects\FirstTask\FirstTask\bin\Debug\EntityFramework.dll
+C:\Users\kyampolskyi\documents\visual studio 2015\Projects\FirstTask\FirstTask\bin\Debug\HtmlAgilityPack.dll
+C:\Users\kyampolskyi\documents\visual studio 2015\Projects\FirstTask\FirstTask\bin\Debug\Crawler.pdb
+C:\Users\kyampolskyi\documents\visual studio 2015\Projects\FirstTask\FirstTask\bin\Debug\EntityFramework.xml
+C:\Users\kyampolskyi\documents\visual studio 2015\Projects\FirstTask\FirstTask\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\kyampolskyi\documents\visual studio 2015\Projects\FirstTask\FirstTask\bin\Debug\HtmlAgilityPack.xml
+C:\Users\kyampolskyi\documents\visual studio 2015\Projects\FirstTask\FirstTask\obj\Debug\FirstTask.csprojResolveAssemblyReference.cache
+C:\Users\kyampolskyi\documents\visual studio 2015\Projects\FirstTask\FirstTask\obj\Debug\FirstTask.exe
+C:\Users\kyampolskyi\documents\visual studio 2015\Projects\FirstTask\FirstTask\obj\Debug\FirstTask.pdb
+C:\Users\kyampolskyi\documents\visual studio 2015\Projects\FirstTask\FirstTask\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kyampolskyi\documents\visual studio 2015\Projects\FirstTask\FirstTask\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kyampolskyi\documents\visual studio 2015\Projects\FirstTask\FirstTask\bin\Debug\NLog.dll
+C:\Users\kyampolskyi\documents\visual studio 2015\Projects\FirstTask\FirstTask\bin\Debug\NLog.xml

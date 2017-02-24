@@ -1,0 +1,6 @@
+C:\Users\kyampolskyi\documents\visual studio 2015\Projects\FirstTask\CrawlerClient\bin\Debug\CrawlerClient.exe.config
+C:\Users\kyampolskyi\documents\visual studio 2015\Projects\FirstTask\CrawlerClient\bin\Debug\CrawlerClient.exe
+C:\Users\kyampolskyi\documents\visual studio 2015\Projects\FirstTask\CrawlerClient\bin\Debug\CrawlerClient.pdb
+C:\Users\kyampolskyi\documents\visual studio 2015\Projects\FirstTask\CrawlerClient\obj\Debug\CrawlerClient.csprojResolveAssemblyReference.cache
+C:\Users\kyampolskyi\documents\visual studio 2015\Projects\FirstTask\CrawlerClient\obj\Debug\CrawlerClient.exe
+C:\Users\kyampolskyi\documents\visual studio 2015\Projects\FirstTask\CrawlerClient\obj\Debug\CrawlerClient.pdb

@@ -1,0 +1,15 @@
+C:\Users\kyampolskyi\documents\visual studio 2015\Projects\FirstTask\CrawlerService\bin\Debug\CrawlerService.exe.config
+C:\Users\kyampolskyi\documents\visual studio 2015\Projects\FirstTask\CrawlerService\bin\Debug\CrawlerService.exe
+C:\Users\kyampolskyi\documents\visual studio 2015\Projects\FirstTask\CrawlerService\bin\Debug\CrawlerService.pdb
+C:\Users\kyampolskyi\documents\visual studio 2015\Projects\FirstTask\CrawlerService\bin\Debug\Crawler.dll
+C:\Users\kyampolskyi\documents\visual studio 2015\Projects\FirstTask\CrawlerService\bin\Debug\HtmlAgilityPack.dll
+C:\Users\kyampolskyi\documents\visual studio 2015\Projects\FirstTask\CrawlerService\bin\Debug\EntityFramework.dll
+C:\Users\kyampolskyi\documents\visual studio 2015\Projects\FirstTask\CrawlerService\bin\Debug\NLog.dll
+C:\Users\kyampolskyi\documents\visual studio 2015\Projects\FirstTask\CrawlerService\bin\Debug\Crawler.pdb
+C:\Users\kyampolskyi\documents\visual studio 2015\Projects\FirstTask\CrawlerService\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\kyampolskyi\documents\visual studio 2015\Projects\FirstTask\CrawlerService\bin\Debug\HtmlAgilityPack.xml
+C:\Users\kyampolskyi\documents\visual studio 2015\Projects\FirstTask\CrawlerService\bin\Debug\EntityFramework.xml
+C:\Users\kyampolskyi\documents\visual studio 2015\Projects\FirstTask\CrawlerService\bin\Debug\NLog.xml
+C:\Users\kyampolskyi\documents\visual studio 2015\Projects\FirstTask\CrawlerService\obj\Debug\CrawlerService.csprojResolveAssemblyReference.cache
+C:\Users\kyampolskyi\documents\visual studio 2015\Projects\FirstTask\CrawlerService\obj\Debug\CrawlerService.exe
+C:\Users\kyampolskyi\documents\visual studio 2015\Projects\FirstTask\CrawlerService\obj\Debug\CrawlerService.pdb

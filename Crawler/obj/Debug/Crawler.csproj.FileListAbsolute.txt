@@ -1,0 +1,16 @@
+C:\Users\kyampolskyi\documents\visual studio 2015\Projects\FirstTask\Crawler\bin\Debug\Crawler.dll.config
+C:\Users\kyampolskyi\documents\visual studio 2015\Projects\FirstTask\Crawler\bin\Debug\Crawler.dll
+C:\Users\kyampolskyi\documents\visual studio 2015\Projects\FirstTask\Crawler\bin\Debug\Crawler.pdb
+C:\Users\kyampolskyi\documents\visual studio 2015\Projects\FirstTask\Crawler\bin\Debug\EntityFramework.dll
+C:\Users\kyampolskyi\documents\visual studio 2015\Projects\FirstTask\Crawler\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kyampolskyi\documents\visual studio 2015\Projects\FirstTask\Crawler\bin\Debug\HtmlAgilityPack.dll
+C:\Users\kyampolskyi\documents\visual studio 2015\Projects\FirstTask\Crawler\bin\Debug\EntityFramework.xml
+C:\Users\kyampolskyi\documents\visual studio 2015\Projects\FirstTask\Crawler\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kyampolskyi\documents\visual studio 2015\Projects\FirstTask\Crawler\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\kyampolskyi\documents\visual studio 2015\Projects\FirstTask\Crawler\bin\Debug\HtmlAgilityPack.xml
+C:\Users\kyampolskyi\documents\visual studio 2015\Projects\FirstTask\Crawler\obj\Debug\Crawler.csprojResolveAssemblyReference.cache
+C:\Users\kyampolskyi\documents\visual studio 2015\Projects\FirstTask\Crawler\obj\Debug\Crawler.dll
+C:\Users\kyampolskyi\documents\visual studio 2015\Projects\FirstTask\Crawler\obj\Debug\Crawler.pdb
+C:\Users\kyampolskyi\documents\visual studio 2015\Projects\FirstTask\Crawler\bin\Debug\StructureMap.dll
+C:\Users\kyampolskyi\documents\visual studio 2015\Projects\FirstTask\Crawler\bin\Debug\NLog.dll
+C:\Users\kyampolskyi\documents\visual studio 2015\Projects\FirstTask\Crawler\bin\Debug\NLog.xml
